@@ -22,3 +22,7 @@ This project bring to view the analytical report of sales data to uncover insigh
 
 ## Data Visualization
 [To view the dasboard, click here](https://ibb.co/bMkGCgvz)
+
+### Power BI Dashboard of Product Sales
+![Screenshot (286)](https://github.com/user-attachments/assets/8df61d7f-4491-4ea9-b8d1-b458f6ae4397)
+
