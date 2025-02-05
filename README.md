@@ -21,3 +21,4 @@ This project bring to view the analytical report of sales data to uncover insigh
   + For visuals that present data insights in a user-friendly format  
 
 ## Data Visualization
+[To view the dasboard, click here](https://ibb.co/bMkGCgvz)
